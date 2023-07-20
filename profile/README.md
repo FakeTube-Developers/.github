@@ -5,5 +5,3 @@
 - 🌱 We are working daily with **HTML, CSS, JS and PHP**
 - 🌍 We are currently working on **FakeTube.cz**
 - 📫 If you like contact us, use our email **faketube@faketube.cz**
-
-![Metrics](https://metrics.lecoq.io/FakeTubeDevs?template=classic&config.timezone=Europe%2FPrague)
