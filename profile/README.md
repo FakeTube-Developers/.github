@@ -1,8 +1,8 @@
 <h1 align="center">Vítejte 👋, jsme vývojáři FakeTube.</h1>
 <h3 align="center">Jsme dynamický tým vývojářů z České republiky.</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/FakeTubeDevs)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/FakeTube_CZ)
+[![Follow our YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCxRJRX8GHAEDAiSkfTiQVtQ)](https://www.youtube.com/channel/UCxRJRX8GHAEDAiSkfTiQVtQ)
+[![Folow us on Twitter](https://img.shields.io/twitter/follow/FakeTube_CZ)](https://twitter.com/intent/follow?screen_name=FakeTube_CZ)
 
 ## 🚀 O nás
 - 🛠️ Každodenně pracujeme s **HTML, CSS, JS a PHP** pro vytváření inovativních webových řešení.
