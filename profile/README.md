@@ -1,5 +1,5 @@
 <h1 align="center">Vítejte 👋, jsme vývojáři FakeTube.</h1>
-<h3 align="center">Jsme dynamický tým vývojářů z České republiky.</h3>
+<h3 align="center">Jsme malý tým vývojářů z České republiky.</h3>
 
 [![Follow our YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCxRJRX8GHAEDAiSkfTiQVtQ)](https://www.youtube.com/channel/UCxRJRX8GHAEDAiSkfTiQVtQ)
 [![Folow us on Twitter](https://img.shields.io/twitter/follow/FakeTube_CZ)](https://twitter.com/intent/follow?screen_name=FakeTube_CZ)
