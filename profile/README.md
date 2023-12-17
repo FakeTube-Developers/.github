@@ -1,7 +1,19 @@
-<h1 align="center">Hello 👋, we are FakeTube Devs.</h1>
-<h3 align="center">We are small developer group from Czechia.</h3>
+<h1 align="center">Vítejte 👋, jsme vývojáři FakeTube.</h1>
+<h3 align="center">Jsme dynamický tým vývojářů z České republiky.</h3>
 
-## ❓ About Us
-- 🌱 We are working daily with **HTML, CSS, JS and PHP**
-- 🌍 We are currently working on **FakeTube.cz**
-- 📫 If you like contact us, use our email **faketube@faketube.cz**
+![GitHub followers](https://img.shields.io/github/followers/FakeTubeDevs)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/FakeTube_CZ)
+
+## 🚀 O nás
+- 🛠️ Každodenně pracujeme s **HTML, CSS, JS a PHP** pro vytváření inovativních webových řešení.
+- 💼 Aktuálně se soustředíme na vývoj **FakeTube.cz**, sociální sítě, která přináší nový zážitek z online videí.
+- 📨 Pokud máte zájem nás kontaktovat, napište nám na **faketube@faketube.cz**. Těšíme se na spolupráci!
+
+## 🎯 Naše cíle
+- 🌱 Rozvíjíme naše dovednosti v oblasti **web developmentu** a stále se učíme nové technologie.
+- 🎯 Chceme poskytnout uživatelům **FakeTube** nejlepší možný zážitek.
+- 🌐 Našim cílem je vytvořit pro tvůrce lepší místo, kde mohou svobodněji sdílet svůj vytvořený obsah.
+
+## 📫 Jak nás kontaktovat
+- Email: **faketube@faketube.cz**
+- Twitter: **@FakeTube_CZ**
