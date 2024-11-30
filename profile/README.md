@@ -1,19 +1,19 @@
-<h1 align="center">Vítejte 👋 na profilu FakeTubeDevs!</h1>
-<h3 align="center">Máme na svědomí česou sociální síť <a href="https://faketube.cz" target="_blank">FakeTube</a></h3>
+<h1 align="center">Welcome 👋 to the FakeTubeDevs Profile!</h1>
+<h3 align="center">We are the creators of the Czech social network <a href="https://faketube.cz" target="_blank">FakeTube</a></h3>
 
 [![Follow our YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCxRJRX8GHAEDAiSkfTiQVtQ)](https://www.youtube.com/channel/UCxRJRX8GHAEDAiSkfTiQVtQ)
-[![Folow us on Twitter](https://img.shields.io/twitter/follow/FakeTube_CZ)](https://twitter.com/intent/follow?screen_name=FakeTube_CZ)
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/FakeTube_CZ)](https://twitter.com/intent/follow?screen_name=FakeTube_CZ)
 
-## 🚀 O nás
-- 🛠️ Každodenně pracujeme s **HTML, CSS, JS a PHP** pro vytváření inovativních webových řešení.
-- 💼 Aktuálně se soustředíme na vývoj **FakeTube.cz**, sociální sítě, která přináší nový zážitek z online videí.
-- 📨 Pokud máte zájem nás kontaktovat, napište nám na **faketube@faketube.cz**. Těšíme se na spolupráci!
+## 🚀 About Us
+- 🛠️ We work daily with **HTML, CSS, JS, and PHP** to create innovative web solutions.
+- 💼 We are currently focused on developing **FakeTube.cz**, a social network bringing a new experience to online videos.
+- 📨 If you’re interested in contacting us, write to **faketube@faketube.cz**. We look forward to working with you!
 
-## 🎯 Naše cíle
-- 🌱 Rozvíjíme naše dovednosti v oblasti **web developmentu** a stále se učíme nové technologie.
-- 🎯 Chceme poskytnout uživatelům **FakeTube** nejlepší možný zážitek.
-- 🌐 Našim cílem je vytvořit pro tvůrce lepší místo, kde mohou svobodněji sdílet svůj vytvořený obsah.
+## 🎯 Our Goals
+- 🌱 We are enhancing our skills in **web development** and continuously learning new technologies.
+- 🎯 Our mission is to provide **FakeTube** users with the best possible experience.
+- 🌐 We aim to create a better platform for creators to freely share their content.
 
-## 📫 Jak nás kontaktovat
+## 📫 How to Contact Us
 - Email: **faketube@faketube.cz**
 - Twitter: **@FakeTube_CZ**
